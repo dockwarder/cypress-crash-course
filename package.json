@@ -20,6 +20,7 @@
     "test": "react-scripts test",
     "eject": "react-scripts eject",
     "cypress": "cypress open",
+    "preserve": "npm run build",
     "serve": "serve -s -l 3000 build/"
   },
   "eslintConfig": {
